@@ -1,4 +1,4 @@
-# -Tweet-Emotion-Recognition
+# Tweet-Emotion-Recognition
 
 Welcome to Tweet Emotion Recognition with TensorFlow This is a project-based course which should take less than 2 hours to finish. Before diving into the project, please take a look at the course objectives and structure:
 
